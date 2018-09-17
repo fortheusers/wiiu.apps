@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>FTPiiU</name>
+  <coder>joedj / Dimok</coder>
+  <version>0.4</version>
+  <url>https://gbatemp.net/threads/ftpiiu.416907/</url>
+  <release_date>20160331200000</release_date>
+  <short_description>An FTP server</short_description>
+  <long_description>ftpiiU is an FTP server for WiiU.
+
+	Ported to WiiU by Dimok.
+	Based on FTPii from joedj
+  </long_description>
+  <category>tool</category>
+
+</app>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Flappy Bird 3D</name>
+  <coder>brienj</coder>
+  <version>3.0</version>
+  <url>https://gbatemp.net/threads/release-hbl-flappy-bird-gx2.444091/</url>
+  <release_date>20170312194100</release_date>
+  <short_description>A Flappy Bird clone for Wii U</short_description>
+  <long_description>A Flappy Bird clone for WiiU using 3D graphics
+  Don't hit pipes!
+  And don't fall down too!
+  
+  Press A to start and jump
+  
+  Uses SBS 3D, compatible TV/monitor required.
+  
+  Credits:
+  rw-r-r_0644 - Original Flappy Bird GX2
+  </long_description>
+  <category>game</category>
+
+</app>

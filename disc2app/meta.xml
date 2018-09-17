@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Disc2app</name>
+  <coder>EyeKey / Fix94</coder>
+  <version>1.0</version>
+  <release_date>20170211204640</release_date>
+  <url>https://gbatemp.net/threads/release-disc2app-dump-installable-app-files-from-wiiu-game-disc.460668/</url>
+  <short_description>Dump installable app files from wiiu game disc</short_description>
+  <long_description>I made an homebrew that combines wudump + wud2app by FIX94. So all the credits goes to him.
+
+It dumps just the .app/-h3/.tmd/.cert/.tik files from the disc. It is much faster than full disc dump, because it only reads the necessary parts of the disc. (And reduce the chance to encounter bad sectors in case of scratched discs) 
+
+You can choose between SD/USB. (the same as in wudump that it is based on)
+It dumps the files to /install/DISC NAME/ folder.
+If you dump it to the SD it can be installed as is with wupinstaller y mode.
+  </long_description>
+  <category>tool</category>
+
+</app>

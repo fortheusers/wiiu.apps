@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Aoc Patcher</name>
+  <coder>MasQchips</coder>
+  <version>1.0</version>
+  <url>https://github.com/MasQchips/AocPatcher#aoc-patcher</url>
+  <release_date>20160508120000</release_date>
+  <short_description>WiiU title DLC Patcher.</short_description>
+  <long_description>This application can load DLC titles in your system memory.
+  	Folder structure DLC
+
+-Place the DLC into the titles path on your SD Card /wiiu/games/titles/[Title Id]/[AOC Title].
+
+(e.g. for Super Smash Bros EUR /wiiu/games/titles/0005000010145000/aoc0005000c10145000
+
+Credits
+
+Dimok
+Maschell
+and several more contributers
+  </long_description>
+  <category>tool</category>
+</app>

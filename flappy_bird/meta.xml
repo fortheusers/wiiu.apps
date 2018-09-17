@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Flappy Bird GX2</name>
+  <coder>rw-r-r_0644</coder>
+  <version>1.0</version>
+  <url>https://gbatemp.net/threads/release-hbl-flappy-bird-gx2.444091/#post-6731481</url>
+  <release_date>20160724165302</release_date>
+  <short_description>A Flappy Bird clone for Wii U</short_description>
+  <long_description>A Flappy Bird clone for WiiU using GX2 graphics
+  Don't hit pipes!
+  And don't fall down too!
+  
+  Press A to start and jump
+  
+  Credits:
+  dimok - WiiU librabries, dynamic_libs, examples, Homebrew Launcher
+  Maschell - GX2_Example and coding help
+  vgmoose - Coding help
+  pwsincd - Icon
+  QuarkTheAwesome, dylon99 - Various help and testing
+  </long_description>
+  <category>game</category>
+
+</app>

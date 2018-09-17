@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>FT2SD</name>
+  <coder>Dimok</coder>
+  <version>0.1</version>
+  <url>https://gbatemp.net/threads/libiosuhax-ppc-ipc-library-for-communication-to-dev-iosuhax.449296/</url>
+  <release_date>20161117000626</release_date>
+  <short_description>A file tree dumper</short_description>
+  <long_description> This application is a file tree dumper to SD. It can dump several (currently) predefined paths directly to your SD card, like for example game disc content, updates, tickets, slc content, vWii content, mlc...Think of this tool as a very pimped ddd alternative. It might even miss some interessting paths but those can be added quite easy.
+The application is currently only a console application but I think i will improve it later with a GX2 GUI and make a nice explorer tool out of it where the user can change paths and copy stuff back and forth.
+
+Here is a HBL ELF for that application which you have to run once you have a /dev/iosuhax node (a.k.a. run the custom fw.img). You can use it on both sysNAND or redNAND. It doesn't matter as long as you have the /dev/iosuhax node in your fw.img or some other launch method.
+
+  </long_description>
+  <category>tool</category>
+</app>

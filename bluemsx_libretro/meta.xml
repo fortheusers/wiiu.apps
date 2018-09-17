@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>blueMSX</name>
+  <coder>Daniel Vik</coder>
+  <version>1.3.6 r</version>
+  <release_date>20170122042017</release_date>
+  <short_description>RetroArch</short_description>
+  <long_description>MSX/SVI/ColecoVision/SG-1000 (blueMSX)
+
+System: MSX/SVI/ColecoVision/SG-1000
+License: GPLv2</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Ast-U-Roids</name>
+  <coder>brienj</coder>
+  <url>https://gbatemp.net/threads/ast-u-roids-v2-0-elf-for-homebrew-launcher.425045/</url>
+  <version>2.5</version>
+  <release_date>20160503120400</release_date>
+  <short_description>Ast-U-Roids</short_description>
+  <long_description>XHP Creations proudly presents Ast-U-Roids
+Destroy asteroids with your spaceship like the arcade classic.
+Special Thanks to (in no particular order):
+Datalogger, vgmoose, pwsincd, Quark The Awesome, and Dimok.
+XHP Creations logo is a trademark of XHP Creations and should not be used in any unofficial build.
+Used with permission - Goin-In performed by [Abnormal] Produced by the [extreme World order] (C)2014
+  </long_description>
+  <category>game</category>
+</app>

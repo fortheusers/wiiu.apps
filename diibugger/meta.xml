@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Dibugger HBL</name>
+  <coder>jam1garner</coder>
+  <version>1.0</version>
+  <release_date>20171211210000</release_date>
+  <url>https://github.com/jam1garner/diibugger-hbl/releases</url>
+  <short_description>A debugger for Wii U</short_description> 
+  <long_description> Homebrew launcher compatible version of diibugger, a debugger for Wii U
+
+  	Credits : Kinnay
+  </long_description> 
+  <category>tool</category>
+
+</app>

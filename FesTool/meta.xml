@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.1">
+    <name>FesTool</name>
+    <coder>multiple people</coder>
+	<url>https://oatmealdome.me/splatfest</url>
+    <version>2.0-r10</version>
+    <release_date>201701120000000</release_date>
+    <short_description>Play custom Splatfests</short_description>
+	<long_description>This tool allows you to play custom Splatfests in Splatoon. For credits, press X at the selection menu. For more information on the events and setup, see the thread here: https://gbatemp.net/threads/release-festool-play-custom-splatfests-in-splatoon.456696/
+BE WARY OF BANS and read the thread carefully before using! You can only play Splatfest Battles with FesTool when a Splatfest is happening.
+</long_description>
+	<category>game</category>
+</app>

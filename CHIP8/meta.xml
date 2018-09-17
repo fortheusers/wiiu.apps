@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>CHIP8 Emulator</name>
+  <coder>rw-r-r_0644 brienj</coder>
+  <version>2.2</version>
+  <url>https://github.com/xhp-creations/CHIP8-Emulator-WiiU</url>
+  <release_date>20160724165302</release_date>
+  <short_description>A CHIP8 Emulator</short_description>
+  <long_description>A CHIP8 Emulator for WiiU
+  
+  Ported by rw-r-r_0644
+  Credits:
+CHIP-8/SCHIP-8 GX2 Emulator by brienj
+
+I updated the CHIP-8 Emulator made by rw-r-r_0644 to use GX2 graphics, include the buzzer, and support the Super CHIP-8 interpreter
+  </long_description>
+  <category>emu</category>
+
+</app>

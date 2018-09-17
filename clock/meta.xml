@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Clock</name>
+  <coder>Dylon99</coder>
+  <version>1.0</version>
+  <release_date>20160511210000</release_date>
+  <short_description>Watch as the time passes</short_description> 
+  <long_description>Watch the time.
+
+  	Coded by Dylon99 using lib_easy.
+
+  </long_description> 
+  <category>tool</category>
+  <url>https://github.com/rw-r-r-0644/WiiU-HelloWorld-Easy</url>
+
+</app>

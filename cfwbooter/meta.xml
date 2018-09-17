@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>CFW Booter</name>
+  <coder>kanye_west, dimok, and others</coder>
+  <version>1.0</version>
+  <url>https://github.com/dimok789/cfw_booter</url>
+  <release_date>20161022200000</release_date>
+  <short_description>Boot a custom firmware file</short_description>
+  <long_description>This program uses the IOSU exploit to boot a custom firmware (CFW) from the SD card.
+
+The file must be placed on the root of the sd card, in sd:/fw.img
+
+This release was the culmination of the effort of some very talented people, who were able to piece this together using public information on the WiiuBru forums.
+  </long_description>
+  <category>tool</category>
+
+</app>
