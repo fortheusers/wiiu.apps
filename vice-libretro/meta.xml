@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>VICE</name>
+  <coder>libretro</coder>
+  <version>1.3.6 r5521d58</version>
+  <release_date>20170529060501</release_date>
+  <short_description>RetroArch</short_description>
+-e   <long_description>VICE
+
+Versatile 8 bit commodore emu.
+</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Useless Homebrew for Wii U</name>
+  <coder>Rydian, Tcm0</coder>
+  <version>1.0</version>
+  <url>https://gbatemp.net/threads/useless-homebrew-for-nintendo-wii-u.506209/</url>
+  <release_date>20180603203000</release_date>
+  <short_description>A Useless Homebrew port</short_description>
+  <long_description>A port of the "Useless Homebrew" DS game for the Wii U.
+  Press the switch and see what happens. But don't make it angry!
+  </long_description>
+  <category>poc</category>
+
+</app>

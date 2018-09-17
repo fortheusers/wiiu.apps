@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiU Video Mode Changer</name>
+  <coder>FiX94</coder>
+  <version>1.0</version>
+  <release_date>20171130210000</release_date>
+  <url>https://github.com/FIX94/wiiu-video-mode-changer/releases</url>
+  <short_description>WiiU Video Mode Changer</short_description> 
+  <long_description>You can change between NTSC and PAL, all the different ports hdmi, composite, s-video, scart and component and change the resolution 576i, 480i, 720p, ... to whatever you want, I did not include any safety guards for invalid settings so keep that in mind you wont for example get composite to go to 720p etc..
+
+  </long_description> 
+  <category>tool</category>
+
+</app>

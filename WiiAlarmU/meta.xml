@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiAlarmU</name>
+  <coder>opendata</coder>
+  <url>https://github.com/opendata26/wiiALARMu</url>
+  <version>1.0</version>
+  <release_date>20160503120400</release_date>
+  <short_description>WiiU Alarm Clock</short_description>
+  <long_description>WiiALARMu is a simple alarm for the wiiu.
+  	
+  	Thanks to QuarkTheAwesome and rw-r-r_0644 for helping fix some things
+  </long_description>
+  <category>tool</category>
+</app>

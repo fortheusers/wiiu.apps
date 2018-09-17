@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>UsendMii Client</name>
+  <coder>Crayon</coder>
+  <version>0.1.0</version>
+  <release_date>20170514000000</release_date>
+  <short_description>A UsendMii client</short_description>
+  <long_description>UsendMii client for Wii U.
+
+    Based on RemotePad from rw-r-r-0644
+  </long_description>
+  <url>https://github.com/Crayon2000/UsendMii-Client/releases</url>
+  <category>tool</category>
+
+</app>
