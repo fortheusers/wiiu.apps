@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>OTP via IOSU</name>
+  <coder>Donald Trump</coder>
+  <version>1.1</version>
+  <url>http://gbatemp.net/threads/otp-access-via-iosu-kernel.445063/</url>
+  <release_date>20161015200000</release_date>
+  <short_description>Display OTP key via IOSU</short_description>
+  <long_description>This program will display your Wii U's OTP keys on the TV screen!
+
+Do not share these keys with anyone. If you get all 0000's, try again. After running this program, the Wii U will crash and need a hard reset. Update: displays complete key now.
+
+You should take a picture of the screen with a camera to quickly save them.
+
+Have fun!
+  </long_description>
+  <category>poc</category>
+
+</app>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>JezzballU</name>
+  <coder>raulbojalil</coder>
+  <url>https://github.com/raulbojalil/jezzballu</url>
+  <version>1.0</version>
+  <release_date>20160503120400</release_date>
+  <short_description>JezzBallU</short_description>
+  <long_description>Jezzball homebrew port (RPX) for the Wii U.
+  </long_description>
+  <category>game</category>
+</app>

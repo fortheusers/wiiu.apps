@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiU Keyboard</name>
+  <coder>cmdj13</coder>
+  <url>https://github.com/cmdj13/WiiU-Keyboard</url>
+  <version>1.0</version>
+  <release_date>201607020000000</release_date>
+  <short_description>WiiU keyboard</short_description>
+  <long_description>This is a keyboard for the Nintendo WiiU.
+
+Binaries can be found in the Release section.
+
+Support and further information can be found at https://gbatemp.net/threads/wip-wiiu-keyboard.414995
+
+Big thanks to CreeperMario who ported this to HBL and made it available for use by other developers! 
+
+Meta and Icon by Pwsincd.
+</long_description>
+<category>poc</category>
+</app>

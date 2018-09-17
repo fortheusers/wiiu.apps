@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<app version="1">
+    <name>LameIRCU</name>
+    <coder>brienj</coder>
+    <version>v2.03</version>
+    <url>https://gbatemp.net/threads/release-lameircu.460609/</url>
+    <release_date>20170313184600</release_date>
+    <short_description>Lame IRC Client</short_description>
+    <long_description>XHP Creations proudly presents LameIRCU
+Experience the "fun" of IRC on your Wii U.
+GX2 Version, use USB keyboard or on-screen keyboard.
+</long_description>
+<category>tool</category>
+</app>

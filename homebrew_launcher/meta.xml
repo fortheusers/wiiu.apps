@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Homebrew Launcher</name>
+  <coder>Dimok</coder>
+  <version>1.4</version>
+  <release_date>20161104210000</release_date>
+  <url>https://gbatemp.net/threads/homebrew-launcher-for-wiiu.416905/</url>
+  <short_description>WiiU Homebrew Launcher</short_description> 
+  <long_description>Loads WiiU homebrew from SD card and from network.
+
+  	Changelist:
+
+support for RPX file launching from SD and wiiload/sendelf directly through HBL
+new elf loader (sd_loader) code with pre-installed kernel memcpy function and support to load RPX
+fixed audio clicking (thanks to aliaspider)
+NOTE:
+New payloads (a.k.a. MP4 files on browser exploit) are required for it to be able to load RPX files. Old payloads are still compatible but will only work with ELF files.
+
+  </long_description> 
+  <category>loader</category>
+
+</app>

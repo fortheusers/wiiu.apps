@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>LiveSynthesisU</name>
+  <coder>QuarkTheAwesome</coder>
+  <version>1.0</version>
+  <release_date>20160905120400</release_date>
+  <short_description>LiveSynthesisU</short_description>
+  <url>https://gbatemp.net/threads/poc-release-live-sound-synthesis.440620/</url>
+  <long_description>[PoC] Live sound synthesis on the Wii U
+
+Once the app starts up, connect a USB keyboard and start playing! The middle row of keys (asdfghjkl) are your white notes; some of the upper row (wetyuop) are your black notes. Z and X control the octave of he notes and C changes the waveform (sine, square, sawtooth or triangle). 
+
+Only tested on 5.5.1; needs sndcore2.
+  </long_description>
+  <category>poc</category>
+</app>

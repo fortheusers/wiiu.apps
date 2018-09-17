@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>IOS Reboot POC</name>
+  <coder>Hilary Clinton</coder>
+  <version>1.0</version>
+  <url>https://gbatemp.net/threads/rop-from-within-ios_usb-5-5-1.444369/</url>
+  <release_date>20160209200000</release_date>
+  <short_description>IOS Reboot POC</short_description>
+  <long_description>
+    Hi guys. Below is an implementation of the userland IOSU exploit on the wiki. It demonstrates a simple ROP chain which will call the shutdown syscall from within IOS_USB and restart your console. (5.5.1 only.) I'm posting this here in the hope that someone might build on this and get privileged execution on the ARM, perhaps by implementing the IOS_CreateThread exploit that is detailed on the wiki, and then share it publicly.
+
+How this works is described in detail on the wiki but you might like to know that the ROP chain overwrites the return address for the subroutine at 0x1011D968. The return address is at 0x1016AD40. The thread's stack is within the range [0x1015AE50, 0x1016AE50). You might also like to know that MEM1 is mapped R/W on the PPC side at 0xF4000000 and on the ARM side at 0x00000000.
+
+  </long_description>
+  <category>poc</category>
+
+</app>
