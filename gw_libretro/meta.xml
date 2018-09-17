@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>GW</name>
+  <coder>Andre Leiradella</coder>
+  <version>1.3.6 r3dd70df</version>
+  <release_date>20170201130604</release_date>
+  <short_description>RetroArch</short_description>
+  <long_description>Game and Watch (GW)
+
+System: Game and Watch
+License: zlib</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

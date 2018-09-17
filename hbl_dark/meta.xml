@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Homebrew Launcher</name>
+  <coder>Dimok</coder>
+  <version>1.4</version>
+  <release_date>20161104210000</release_date>
+  <url>https://gbatemp.net/threads/homebrew-launcher-darker-mod.448883/</url>
+  <short_description>WiiU Homebrew Launcher</short_description> 
+  <long_description>Loads WiiU homebrew from SD card and from network.
+
+  	Dark Theme of HBL 1.4 compiled and themed by Irastris
+
+  </long_description> 
+  <category>loader</category>
+
+</app>

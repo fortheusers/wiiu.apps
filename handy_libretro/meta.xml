@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Handy</name>
+  <coder>K. Wilkins</coder>
+  <version>1.3.6 r</version>
+  <release_date>20170122042029</release_date>
+  <short_description>RetroArch</short_description>
+  <long_description>Atari Lynx (Handy)
+
+System: Lynx
+License: Zlib</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

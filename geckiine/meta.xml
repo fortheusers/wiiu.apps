@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.1">
+  <name>Geckiine</name>
+  <coder>multiple people</coder>
+  <version>1.1</version>
+  <url>https://gbatemp.net/threads/release-geckiine-tcpgecko-and-cafiine-combined.433057/</url>
+  <release_date>201607080000000</release_date>
+  <short_description>TCPGecko and Cafiine combined</short_description>
+  <long_description>
+This tool install both TCPgecko and Cafiine into system memory so that you can use them at the same time.
+
+Special thanks to : Maschell / Dimok / NWPlayer123 / amibu / seresaa / MachMatic and brienj.
+
+OatmealDome says , Shoutouts t oeveryone at the splatoon Modding hub Discord because i probably annoyed them by talking endlessly about the various problems i encountered.
+</long_description>
+<category>tool</category>
+</app>

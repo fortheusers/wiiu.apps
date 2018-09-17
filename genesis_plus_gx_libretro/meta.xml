@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Genesis Plus GX</name>
+  <coder>Charles McDonald - Eke-Eke</coder>
+  <version>1.3.6 r5521d58</version>
+  <release_date>20170529060230</release_date>
+  <short_description>RetroArch</short_description>
+-e   <long_description>Sega MS/GG/MD/CD (Genesis Plus GX)
+
+System: Sega 8/16-bit (Various)
+License: Non-commercial</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

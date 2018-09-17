@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>GBiine</name>
+  <coder>seagal</coder>
+  <version>0.2b</version>
+  <url>https://gbatemp.net/threads/game-boy-emu-for-5-3-2.417294/</url>
+  <release_date>20160501200000</release_date> <url>https://gbatemp.net/threads/game-boy-emu-for-5-3-2.417294/</url>
+  <short_description>Game Boy Emulator</short_description>
+  <long_description>GBiine 
+
+	Game boy Emulator
+  </long_description>
+  <category>emu</category>
+
+</app>

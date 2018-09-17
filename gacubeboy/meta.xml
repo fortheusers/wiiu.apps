@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>gacubeboy</name>
+  <coder>brienj</coder>
+  <version>1337</version>
+  <release_date>20160503120400</release_date>
+  <short_description>gacubeboy</short_description>
+  <url>https://gbatemp.net/threads/release-gacubeboy-emulator-with-iosu-hack.435627/</url>
+  <long_description>XHP Creations proudly presents:
+gacubeboy emulator with IOSU hack
+
+Special Thanks to (in no particular order):
+Datalogger, vgmoose, pwsincd, Quark The Awesome, and Dimok.
+XHP Creations logo is a trademark of XHP Creations and should not be used in any unofficial build.
+  </long_description>
+  <category>emu</category>
+</app>

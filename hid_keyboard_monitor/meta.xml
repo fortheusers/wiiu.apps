@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<app version="1">
+    <name>HID Keyboard Monitor</name>
+    <coder>rw-r-r_0644</coder>
+    <version>v1.0</version>
+    <url>https://github.com/rw-r-r-0644/KB_test</url>
+    <release_date>20160903064400</release_date>
+    <short_description>Reads from USB Keyboards</short_description>
+    <long_description>This program makes use of the nsyskbd library to read from connected USB Keyboards.
+
+RE and code by rw-r-r_0644
+    </long_description>
+    <category>poc</category>
+</app>
