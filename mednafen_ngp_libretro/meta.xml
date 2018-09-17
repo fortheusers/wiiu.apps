@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Beetle NeoPop</name>
+  <coder>neopop_uk - Mednafen Team</coder>
+  <version>1.3.6 r5521d58</version>
+  <release_date>20170529060502</release_date>
+  <short_description>RetroArch</short_description>
+-e   <long_description>Neo Geo Pocket/Color (Beetle NeoPop)
+
+System: Neo Geo Pocket (Color)
+License: GPLv2</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

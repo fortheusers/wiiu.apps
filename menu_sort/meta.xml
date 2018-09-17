@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Menu Sort</name>
+  <coder> Yardape8000</coder>
+  <version>y.0.1.0</version>
+  <release_date>20161230201000</release_date>
+  <short_description>WiiU Menu Sort</short_description>
+  <long_description>Sorts items on Wii U Menu.
+
+  	Please note this app requires additional files to run should you want to filter your sort .. please read the info at 
+  	https://gbatemp.net/threads/wii-u-menu-sort.455132/ 
+  </long_description>
+  <category>tool</category>
+  <url>https://gbatemp.net/threads/wii-u-menu-sort.455132/</url>
+</app>
