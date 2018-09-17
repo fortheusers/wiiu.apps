@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>OurLoader</name>
+  <coder>OurBrew (coc4tm)</coder>
+  <version>1.0</version>
+  <release_date>20160910200000</release_date>
+  <url>https://github.com/OurBrew/OurLoader</url>
+  <short_description>Region free disk loader for Wii U</short_description>
+<long_description>
+Region free disk loader for Wii U
+
+Based on Wii U hello world , DDD and easy_lib (thanks @rw-r-r-0644)
+
+Use patch from @QuarkTheAwesome , @wj444 and @rw-r-r-0644
+</long_description>
+<category>loader</category>
+
+</app>

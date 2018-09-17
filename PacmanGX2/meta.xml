@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>PacMan_GX2</name>
+  <coder>RYUUTSEKU85</coder>
+  <version>4.0</version>
+  <release_date>20160712210000</release_date>
+  <short_description>WiiU Homebrew</short_description> 
+  <long_description>
+  This is a simple pacman game for wii u
+  made using the gx2_template
+
+  thanks to all who help me.  
+  
+  
+
+  </long_description> 
+  <url>https://gbatemp.net/threads/pacman_gx2-version-3-5.462711/page-3#post-7162827</url>
+  <category>game</category>
+
+</app>

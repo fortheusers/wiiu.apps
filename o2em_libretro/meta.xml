@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>O2EM</name>
+  <coder>D.Boris-A.de la Rocha-A.Oliveira</coder>
+  <version>1.3.6 r3dd70df</version>
+  <release_date>20170117211400</release_date>
+  <short_description>RetroArch</short_description>
+  <long_description>Odyssey2 / Videopac+ (O2EM)
+
+System: Magnavox Odyssey2 / Videopac+
+License: Artistic License</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

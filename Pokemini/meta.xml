@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>PokeMini</name>
+  <coder>libretro</coder>
+  <version>0.01</version>
+  <url>https://code.launchpad.net/~libretro/libretro/pokemini-libretro</url>
+  <release_date>20161106223000</release_date>
+  <short_description>Pokemini</short_description>
+  <long_description>Obscure nintendo handheld emulator (functional,no color files or savestates currently)
+  	Untested compile by rw-r-r_0644</long_description>
+  	<category>emu</category>
+
+</app>

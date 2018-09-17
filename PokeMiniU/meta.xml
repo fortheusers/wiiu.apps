@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>PokeMiniU</name>
+  <coder>shutterbug2000, JustBurn</coder>
+  <version>2.2</version>
+  <url>https://gbatemp.net/threads/pokeminiu-pokemon-mini-emulator-for-wii-u.443600/</url>
+  <release_date>20160930172200</release_date>
+  <short_description>Pokemon Mini Emulator</short_description>
+  <long_description>Pokemon Minu Emulator for Wii U.
+  
+  Ported by shutterbug2000
+  Originally made by JustBurn
+  </long_description>
+  <category>emu</category>
+
+</app>

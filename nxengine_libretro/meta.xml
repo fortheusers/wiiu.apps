@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>NXEngine</name>
+  <coder>Caitlin Shaw</coder>
+  <version>1.3.6 r5521d58</version>
+  <release_date>20170529060519</release_date>
+  <short_description>RetroArch</short_description>
+-e   <long_description>Cave Story (NXEngine)
+
+System: Cave Story Game Engine
+License: GPLv3</long_description>
+  <category>emu</category>
+  <url>https://github.com/libretro</url>
+</app>

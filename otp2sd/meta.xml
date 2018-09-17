@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>OTP2SD</name>
+  <coder>dimok</coder>
+  <version>1.0</version>
+  <url>http://https://github.com/dimok789/otp2sd_dumper</url>
+  <release_date>2016110200000</release_date>
+  <short_description>Dump OTP key via IOSU to sd</short_description>
+  <long_description>This program will dump your OTP to your sd card. Do not share these keys with anyone.
+
+App package made by x65943
+  </long_description>
+  <category>tool</category>
+
+</app>

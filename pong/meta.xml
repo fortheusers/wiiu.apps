@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Pong</name>
+  <coder>Relys, Dimok</coder>
+  <version>1.1</version>
+  <url>https://github.com/dimok789/pong_port</url>
+  <release_date>20150209200000</release_date>
+  <short_description>Pong!</short_description>
+  <long_description>Example libwiiu pong port for HBL by Relys
+  	Quote : after Hykem and I figured out how to use the OSScreen functions while analysing OSFatal.
+  </long_description>
+  <category>game</category>
+
+</app>
