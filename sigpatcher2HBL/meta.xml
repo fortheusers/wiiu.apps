@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>SigPatcher2HBL</name>
+  <coder>dimok</coder>
+  <version>0.1</version>
+  <url>https://gbatemp.net/threads/simple-signature-check-patcher.451138/</url>
+  <release_date>20161128200000</release_date>
+  <short_description>Simple signature check patcher</short_description>
+  <long_description>This application is a simple IOSU signature/hash/region and other checks patcher. It gives you the same ability as a custom firmware with signature patches except it does not require a custom fw.img on your SD card or anything else. This makes it perfectly shareable in contrary to a full fw.img.
+
+What you can do if you use it is install custom channels like the HBL channel and launch those channels that would normally fail because of some signature checks. Additional to that this does not require to make a full OS relaunch with a fw.img and therefore it loads much faster then the full custom fw.img. The version that just goes back to HBL is actually very fast.
+
+What you don't get with this compared to a full custom fw.img is a wupserver or libiosuhax /dev node. You can't use wupclient or ftpiiu everywhere with this. It could probably be extended in the future, especially the /dev node part is quite easy to add/modify, but for now it is a simple signature check patcher.
+
+The following signature checks are all patched out by this (which is equivalent to a custom fw.img):
+cert verification
+cached cert check
+MCP authentication check
+public key verification check
+bootLogoTex and bootMovie.h264 check
+region title launch check
+  </long_description>
+  <category>tool</category>
+
+</app>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>RemotePad</name>
+  <coder>rw-r-r_0644</coder>
+  <version>0.5</version>
+  <release_date>20170126204640</release_date>
+  <url>https://github.com/rw-r-r-0644/RemotePad/releases/tag/0.5</url>
+  <short_description>Control your computer from the Wii U!</short_description>
+  <long_description>This app let you send input from the Gamepad to your computer 
+  trough the network.
+  
+  To make it work you'll need to run a client on your computer which you can find
+  at the release page: goo.gl/7cvSSf
+  
+  Currently the client only runs on windows and you cannot configure input :(
+  Also screen streaming will most likely never be done because of the brandwidth
+  it would require (?)
+  </long_description>
+  <category>tool</category>
+
+</app>

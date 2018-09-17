@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>SEEPROM2SD</name>
+  <coder>dimok</coder>
+  <version>1.0</version>
+  <url>https://github.com/dimok789/seeprom2sd/releases/tag/v1.0</url>
+  <release_date>2016115200000</release_date>
+  <short_description>Dump seeprom to sd</short_description>
+  <long_description>Dumping the Wii U EEPROM through the SPI connection to a file on your SD card.
+  </long_description>
+  <category>tool</category>
+
+</app>

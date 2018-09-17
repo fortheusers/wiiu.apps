@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Shutdown</name>
+	<coder>CreeperMario</coder>
+	<version>1</version>
+	<release_date>20170123100000</release_date>
+	<url>https://github.com/CreeperMario/shutdown</url>
+	<category>poc</category>
+	<short_description>Shuts down your console</short_description>
+	<long_description>This is probably the most pointless app ever made.
+Maybe more pointless than that IOSU reboot example.
+All it does is shut down your console. That's it.
+
+This is dedicated to *that one person who can't seem to be screwed pressing the POWER button on his/her console/controller*.
+
+Shutdown icon made by Dave Gandy from www.flaticon.com
+Graphics make use of the Overpass font by Delve Withrington</long_description>
+</app>

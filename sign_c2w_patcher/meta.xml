@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>sign_c2w_patcher</name>
+  <coder>FIX94</coder>
+  <version>0.3</version>
+  <url>https://github.com/FIX94/sign_c2w_patcher/releases</url>
+  <release_date>20170928200000</release_date>
+  <short_description>sign_c2w_patcher</short_description>
+  <long_description>This app will apply signature patches and also redirect cafe2wii to be loaded from any wii vc title you boot up, this allows for easy cafe2wii patches without having to modify the actual system title.
+  </long_description>
+  <category>tool</category>
+</app>

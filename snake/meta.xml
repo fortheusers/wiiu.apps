@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Snake WiiU</name>
+  <coder>eliboa</coder>
+  <version>1.0</version>
+  <url>https://gbatemp.net/threads/release-snake-wiiu-5-5-x-5-3-2.413341/</url>
+  <release_date>20160202200000</release_date>
+  <short_description>The classic game</short_description>
+  <long_description>Snake WiiU by eliboa
+    source code: github.com/eliboa/Snake
+    
+    Like SonyUSA, i made my first homebrew (and like her, i'm a beginner in c so be indulgent).
+
+This is a simple Snake game. I don't explain you the rules, everybody knows them.
+
+	  The drawing function in libwiiu is so greedy that you may experience some slowdowns if the snake tail becomes too long.
+	  
+	  More info: https://gbatemp.net/threads/release-snake-wiiu-5-5-x-5-3-2.413341/
+	  HBL port by brienj
+  </long_description>
+  <category>game</category>
+
+</app>

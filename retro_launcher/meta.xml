@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Retro Launcher</name>
+  <coder>steff</coder>
+  <version>1.4</version>
+  <url>https://gbatemp.net/threads/retroarch-wiiu-wip.447670/page-28#post-6815805</url>
+  <release_date>20161104210000</release_date>
+  <short_description>WiiU Retro Launcher</short_description> 
+  <long_description>Launcher for RetroArch cores.
+  Mod of the Homebrew Launcher by Dimok.
+  Credits to Dimok and the RetroArch developers.
+
+  You have to put the cores to sd:/wiiu/retro/*. To simply go back to the Hbl,
+   just put a copy of the homebrew_launcher in the retro directory.
+
+   Uses version 1.4 of HBL
+  </long_description>
+  <category>loader</category>
+
+</app>

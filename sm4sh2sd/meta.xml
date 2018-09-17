@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>sm4sh2sd</name>
+  <coder>Dimok, fungus</coder>
+  <version>0.2</version>
+  <url>https://github.com/thefungus/sm4sh2sd/releases</url>
+  <release_date>20171018200000</release_date>
+  <short_description>Dump Sm4sh</short_description>
+  <long_description>Dump Sm4sh from disc or NAND to your SD card.
+  </long_description>
+  <category>tool</category>
+
+</app>
