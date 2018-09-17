@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>TimingU</name>
+  <coder>Coolguy1260</coder>
+  <version>0.1</version>
+  <url>https://github.com/Coolguy1260/timingu</url>
+  <short_description>Click A at the right time!</short_description>
+  <long_description>TimingU
+A small little game I made with lib_easy. Hope you enjoy! !!!WARNING!!! GAMEPAD ONLY (for now)
+  </long_description>
+  <category>game</category>
+
+</app>

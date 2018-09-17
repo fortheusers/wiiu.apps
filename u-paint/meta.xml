@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>U-Paint</name>
+  <coder>brienj</coder>
+  <url>https://gbatemp.net/threads/u-paint-v2-5-for-homebrew-launcher.427404/</url>
+  <version>2.5</version>
+  <release_date>20160614220000</release_date>
+  <short_description>U-Paint</short_description>
+  <long_description>XHP Creations proudly presents U-Paint
+Special Thanks to:
+Datalogger - Old school hacker
+vgmoose - Inspiring programmer that's always cool
+pwsincd - For setting up a non-volatile working environment
+Quark The Awesome - Another inspiring programmer that never quits
+Dimok - For setting up the Homebrew Launcher environment
+XHP Creations logo is a trademark of XHP Creations and should not be used in any unofficial build.</long_description>
+<category>tool</category>
+</app>

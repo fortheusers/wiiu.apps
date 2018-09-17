@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>tictactoe</name>
+  <coder>rw-r-r_0644</coder>
+  <url>https://github.com/rw-r-r-0644/TicTacToe-WiiU</url>
+  <version>1.0</version>
+  <release_date>201607020000000</release_date>
+  <short_description>Tic Tac Toe-WiiU</short_description>
+  <long_description>The Classic Tic tac toe (noughts and crosses) coded for the wiiu by rw-r-r-0644.
+
+Ported to be HBL compliant by Creepermario.
+
+Meta and Icon by pwsincd.
+</long_description>
+<category>game</category>
+</app>

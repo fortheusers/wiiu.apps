@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>UClick</name>
+  <coder>rw-r-r_0644</coder>
+  <version>1.0</version>
+  <url>https://github.com/rw-r-r-0644/lib_easy_example__UClick</url>
+  <release_date>20160618165302</release_date>
+  <short_description>UClick - Click 'A' as fast as possible</short_description>
+  <long_description>UClick
+  A lib_easy example wii u homebrew written in just 72 easy lines of code as commented as possible :D
+  Don't exitate to ask if you need help in creating you own homebrew of trying to get how this one work ;)
+  
+  Actual game: press 'A' as fast as possible to get higher scores
+  </long_description>
+  <category>game</category>
+
+</app>

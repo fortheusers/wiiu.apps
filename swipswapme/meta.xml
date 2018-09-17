@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>SwipSwapMe</name>
+    <coder>Maschell</coder>
+	<url>https://github.com/Maschell/function-patcher-example/tree/swipswapme</url>
+    <version>0.2</version>
+    <release_date>201707190000000</release_date>
+    <short_description>Switch TV display onto the gamepad</short_description>
+	<long_description>Swap your TV and DRC displays.
+	</long_description>
+	<category>tool</category>
+</app>

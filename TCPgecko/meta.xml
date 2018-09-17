@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>TCPgecko</name>
+  <coder>Various</coder>
+  <version>2.51</version>
+  <url>https://github.com/BullyWiiPlaza/tcpgecko</url>
+  <release_date>20160503120400</release_date>
+  <short_description>WiiU RAM Hacking</short_description>
+  <long_description>A memory editor that does magical things to your games 
+Special Thanks to:
+wj44 - elf maker 
+pwsincd - icon and xml
+bullywiiplaza - for this version.
+
+</long_description>
+<category>tool</category>
+</app>
